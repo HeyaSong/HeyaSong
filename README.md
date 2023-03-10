@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeyaSong
 - 👀 I’m interested in Dancing
-- 🌱 I’m currently learning Global Comm at USC
-- 💞️ I’m looking to collaborate on (I'm no sure
+- 🌱 I did my master program at USC
+- 💞️ I’m looking forward to collaborate on (I'm no sure
 - 📫 How to reach me : You could contact me via email 
 
 <!---
